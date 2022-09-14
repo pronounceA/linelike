@@ -1,0 +1,9 @@
+stsにてgradleプロジェクト作成
+
+plugin
+	H2 database
+	Lombok
+	MySQL Driver
+	Spring BootDevTools
+	Spring Web
+	Validation
